@@ -1,0 +1,8 @@
+{
+  "name": "CareerLaunch",
+  "description": "Comprehensive placement-preparation platform for college students to master coding, aptitude, interviews, job applications, and resumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
